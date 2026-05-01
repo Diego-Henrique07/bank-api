@@ -9,10 +9,4 @@ public record AccountCreateRequest(
 
         @NotNull
         AccountType accountType
-){
-
-
-
-
-
-}
+){}
