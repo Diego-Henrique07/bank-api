@@ -58,6 +58,7 @@ GET /accounts/{id}/statement
 
 💳 Cards
 POST /cards
+
 GET /cards
 GET /cards/{id}
 PATCH /cards/{id}/block
