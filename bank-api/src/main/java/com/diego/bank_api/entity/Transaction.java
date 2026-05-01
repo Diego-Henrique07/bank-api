@@ -74,10 +74,4 @@ public class Transaction {
     @Setter
     @Column(nullable = true)
     private BigDecimal targetBalanceAfter;
-
-
-
-
-
-
 }
